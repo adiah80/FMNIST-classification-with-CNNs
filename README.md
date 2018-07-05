@@ -7,8 +7,8 @@
 - The 'graphs' folder contains some graphs relating to the model's perfomance.
 
 
-  __ACCURACY vs ITERATIONS__ 
+ ## ACCURACY vs ITERATIONS
 ![alt text](./graphs/model_0/model_0-1-accuracy_vs_iterations.png)
 
-  __LOSS vs ITERATIONS__ 
+ ## LOSS vs ITERATIONS
 ![alt text](./graphs/model_0/model_0-1-loss_vs_iterations.png)
